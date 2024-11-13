@@ -44,4 +44,4 @@ print("Standard Deviation:", stats.std())
 ```
 
 ## Installation
-Currently, `mstats` is not available as a package. Simply download mstats.py and include it in your project directory. You can then import and use the class as shown above.
+Currently, `mstats` is not available as a package. Simply download main.ipynb and include it in your project directory. You can then import and use the class as shown above.
